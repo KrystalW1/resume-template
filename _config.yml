@@ -37,11 +37,11 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "https://twitter.com/search?q=imasportsmaniac&src=typd
+  resume_twitter_url:           "https://twitter.com/search?q=imasportsmaniac&src=typd"
   resume_dribbble_url:          
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/krystal-white-2a6b11144/
-  # resume_instagram_url:         "https://www.instagram.com/imasportsmaniac/?hl=en
+  resume_linkedin_url:          "https://www.linkedin.com/in/krystal-white-2a6b11144/"
+  # resume_instagram_url:         "https://www.instagram.com/imasportsmaniac/?hl=en"
   resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
